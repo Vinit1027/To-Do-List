@@ -1,0 +1,48 @@
+.padbetween {
+    height: 1000px;
+    background-color: rgb(34, 38, 35);
+    padding: 100px 0px;
+}
+
+
+
+
+
+
+
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.ipbox {
+    height: 40px;
+    width: 500px;
+}
+
+
+.bty {
+    height: 40px;
+    background-color: rgb(168, 46, 46);
+    border-radius: 4px;
+    color: #fff;
+
+}
+
+
+
+.rect {
+    box-sizing: border-box;
+    height: 50px;
+    width: 800px;
+    border: 1px solid transparent;
+    background-color: #fff;
+    padding: 8px 16px;
+    margin: 16px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
